@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6317737771",
+    "firebase_url": "https://intilock.firebaseio.com",
+    "project_id": "intilock",
+    "storage_bucket": "intilock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6317737771:android:a6aee85e728d74ea",
+        "android_client_info": {
+          "package_name": "com.example.intilock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6317737771-3vd8ir8iv7rj5k0h966n9snbe391jqja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intilock",
+            "certificate_hash": "9fcaeef1494490f948b1ed17db292ae7a43da775"
+          }
+        },
+        {
+          "client_id": "6317737771-hqc4olcs4nmcjob4dlnlcjhfblp5qtbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxoYkheHGULPdD-RNFuQGWF1bzsqxML4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6317737771-hqc4olcs4nmcjob4dlnlcjhfblp5qtbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
