@@ -4,6 +4,7 @@ A realtime android app for smart lock.
 Working of app:
 https://drive.google.com/open?id=1PU6qyYmC0iGe81YUoUNHE8pBxYrlPORv
 
+
 The problem with a single password based keypad lock was that the password had to be deliberately changed by
 us if we were unsure of it’s secrecy. What if the lock changed it’s password on it’s own on a daily basis? Now if
 this was the case, then we don’t need to be unsure of the password’s privacy, ‘cause even if someone knew about
